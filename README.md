@@ -69,6 +69,4 @@ If you want to look even more polished later, you can add:
 - A `fake_commands.txt` list
 - Demo screenshot
 - Contribution guidelines (if public)
-
-Let me know if you want a banner image or status badge for GitHub too.
 ```
