@@ -21,7 +21,11 @@ The honeypot listens for SSH connections on a specified port. When a user logs i
 1. Clone the repository:
    ```bash
    git clone https://github.com/piyushbansal14/ssh-honeypot.git
+ ```
+```bash
    cd ssh-honeypot
+  ```
+
 ````
 
 2. Install dependencies:
