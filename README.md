@@ -16,15 +16,13 @@ This project is a Python-based SSH honeypot that simulates a real Linux shell en
 
 The honeypot listens for SSH connections on a specified port. When a user logs in (with any credentials), they are dropped into a fake shell that looks and behaves like a real one. Their inputs are logged, and command responses are generated based on pre-defined fake outputs.
 
-## Installation
+## 🚀 Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/piyushbansal14/ssh-honeypot.git
- ```
-```bash
    cd ssh-honeypot
-  ```
 
 ````
 
